@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://someijam.github.io/SomeiWiki/sitemap.xml
+Sitemap: https://someijam.github.io/SomeiWiki/SomeiWiki/sitemap.xml
