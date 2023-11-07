@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/SomeiWiki/",
 
   lang: "zh-CN",
   title: "SomeiWiki",
