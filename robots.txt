@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://someijam.github.io/SomeiWiki/sitemap.xml
