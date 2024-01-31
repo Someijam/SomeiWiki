@@ -3,8 +3,8 @@ title: 3.RSA加密算法
 date: 2023-03-21 22:43:59
 icon: file-lines
 category:
-  - CTF Learning
-  - 密码学旅行日志 - Travel in Cryptography
+  - CTF
+  - Cryptography
 ---
 # RSA加密算法
 

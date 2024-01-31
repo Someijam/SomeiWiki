@@ -3,8 +3,8 @@ title: 5.Diffie-Hellman密钥交换
 icon: file-lines
 date: 2023-05-24 22:07:30
 category:
-  - CTF Learning
-  - 密码学旅行日志 - Travel in Cryptography
+  - CTF
+  - Cryptography
 ---
 # Diffie-Hellman密钥交换
 

@@ -3,8 +3,8 @@ title: 1.古典密码学
 date: 2023-03-19 22:43:59
 icon: file-lines
 category:
-  - CTF Learning
-  - 密码学旅行日志 - Travel in Cryptography
+  - CTF
+  - Cryptography
 ---
 # 古典密码学
 

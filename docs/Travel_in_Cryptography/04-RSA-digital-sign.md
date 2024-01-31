@@ -3,8 +3,8 @@ title: 4.RSA数字签名
 date: 2023-03-22 22:43:59
 icon: file-lines
 category:
-  - CTF Learning
-  - 密码学旅行日志 - Travel in Cryptography
+  - CTF
+  - Cryptography
 ---
 # RSA数字签名
 

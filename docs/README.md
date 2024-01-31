@@ -18,3 +18,12 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 
 ## 欢迎来到SomeiWiki
 
+Someijam:
+
+* Email: lingsomeijam1@outlook.com
+
+* GitHub: Someijam
+
+* QQ:1251590498
+
+* Blog: https://blog.someijam.cn

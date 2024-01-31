@@ -3,8 +3,8 @@ title: 2.对称加密算法
 date: 2023-03-20 22:43:59
 icon: file-lines
 category:
-  - CTF Learning
-  - 密码学旅行日志 - Travel in Cryptography
+  - CTF
+  - Cryptography
 ---
 # 对称加密算法
 
