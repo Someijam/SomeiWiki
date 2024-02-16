@@ -1,5 +1,5 @@
 ---
-title: 06.格相关的初步理解
+title: 6.格相关的初步理解
 date: 2024-01-29 23:47:02
 icon: file-lines
 category:

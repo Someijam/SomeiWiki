@@ -3,6 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   "/Travel_in_Cryptography/",
+  "/CTF_Writeups/",
   "/CryptoHack_Selections/",
   {
     text: "Life Blog(有好康的~)",
