@@ -27,3 +27,5 @@ Someijam:
 * QQ:1251590498
 
 * Blog: https://blog.someijam.cn
+
+* Wiki: https://wiki.someijam.cn
